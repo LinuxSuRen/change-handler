@@ -1,0 +1,6 @@
+.idea
+target
+work
+*.iml
+env.sh
+.DS_Store
